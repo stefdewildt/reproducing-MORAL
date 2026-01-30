@@ -105,7 +105,7 @@ Example (single dataset):
 ```bash
 cd scripts
 
-python main.py   --dataset facebook   --model gae   --fair_model moral   --device cuda:0   --epochs 300
+python main.py   --dataset facebook   --model gae   --fair_model moral   --device cuda:0   --epochs 500
 ```
 
 Arguments (from `main.py`):
