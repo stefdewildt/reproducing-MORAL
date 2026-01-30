@@ -1,0 +1,11 @@
+/dataset/
+__pycache__/
+/jobs
+.ipynb_checkpoints
+.DS_Store
+.venv/
+emissions/emissions.csv
+data/splits/**
+!data/splits/dpah
+!data/splits/dpah/**
+scripts/emissions.ipynb
